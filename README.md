@@ -16,7 +16,25 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="./assets/profile.png" width="170" height="170" alt="Mengistu Abawa - Full-Stack Developer" />
+
+<br/>
+
+# Mengistu Abawa
+
+### 💻 Full-Stack Developer | Software Engineering Student
+
+Building Modern Web Applications | React · Node.js · PostgreSQL
+
+<p>
+  <a href="https://github.com/mengistuAbawa">GitHub</a> •
+  <a href="mailto:mengistuaabwa21@gmail.com">Email</a> •
+  <a href="https://t.me/MengeQuarit">Telegram</a>
+</p>
+
+</div>
 ## 👨‍💻 About Me
 
 Hello! I'm **Mengistu Abawa**, a Software Engineering student at **Injibara University** and a passionate Full-Stack Developer.
