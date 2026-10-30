@@ -18,7 +18,8 @@
 ---
 <div align="center">
 
-<img src="./assets/profile.png" width="170" height="170" alt="Mengistu Abawa - Full-Stack Developer" />
+<img src="./<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/a513f157-8bd5-4409-b1cc-0126ff09ef51" />
+" width="170" height="170" alt="Mengistu Abawa - Full-Stack Developer" />
 
 <br/>
 
